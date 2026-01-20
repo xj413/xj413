@@ -34,13 +34,3 @@ I am a **Computer Science Student** at **Durham University** (Class of 2027), in
 
 ---
 
-### Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **Brain EEG Classification** | Zero-shot EEG-to-semantic embedding classification using **multimodal fusion** on the THINGS-EEG dataset. | `Python` `Scikit-Learn` `Pandas` |
-| **Police Witness System** | Automated statement system using **LLM integration** (MCP) and **Text-to-Speech** API for accessibility. | `Flutter` `Dart` `Node.js` |
-| **Instant Messaging App** | Real-time messaging application utilizing socket programming for robust client-server communication. | `Python` `Sockets` |
-| **Dynamic Memory Allocator** | Custom implementation of `malloc`, `free`, and `realloc` with explicit heap memory management. | `C` `Make` |
-| **Sentiment Analyser** | Real-time **demographic & emotion recognition** from webcam streams (optimized to 30 FPS). | `OpenCV` `Deep Face` `Python` |
-| **Penetration Testing** | Security audits identifying **SQL injection** & **XSS**, plus cryptographic vulnerability assessments. | `Wireshark` `Python` `Kali` |
