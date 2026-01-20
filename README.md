@@ -14,17 +14,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am a **Computer Science Student** at **Durham University** (Class of 2027), interested in  **AI, Cybersecurity, Data Science and Software Engineering**. 
 
-* 🔭 **I’m currently working on:** AI search for best tours for TSP problem 
-* 🎓 **Education:** BSc Computer Science (Year 1: 2:1) & International Foundation Year (76%).
-* 💬 **Languages:** English (Native), Mandarin (Proficient), Malay (Proficient).
-
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,js,haskell,bash,java" />
@@ -38,7 +34,7 @@ I am a **Computer Science Student** at **Durham University** (Class of 2027), in
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
