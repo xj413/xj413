@@ -16,12 +16,11 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a **Computer Science Student** at **Durham University** (Class of 2027) [cite: 6, 20][cite_start], passionate about **AI, Cybersecurity, and Software Engineering**. [cite_start]I specialize in building end-to-end ML pipelines and secure, modular software architectures[cite: 26, 33].
+I am a **Computer Science Student** at **Durham University** (Class of 2027), interested in  **AI, Cybersecurity, Data Science and Software Engineering**. 
 
-* [cite_start]🔭 **I’m currently working on:** Zero-Shot Brain EEG Classification & Multimodal Fusion[cite: 30].
-* [cite_start]🎓 **Education:** BSc Computer Science (Year 1: 2:1) & International Foundation Year (76%)[cite: 7, 8, 11].
-* [cite_start]🏆 **Awards:** British Physics Olympiad (Gold), Grade 8 Piano & Violin (Distinction)[cite: 69].
-* [cite_start]💬 **Languages:** English (Native), Mandarin (Proficient), Malay (Proficient)[cite: 70].
+* 🔭 **I’m currently working on:** AI search for best tours for TSP problem 
+* 🎓 **Education:** BSc Computer Science (Year 1: 2:1) & International Foundation Year (76%).
+* 💬 **Languages:** English (Native), Mandarin (Proficient), Malay (Proficient).
 
 ---
 
@@ -43,9 +42,9 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **Brain EEG Classification** | [cite_start]Zero-shot EEG-to-semantic embedding classification using **multimodal fusion** on the THINGS-EEG dataset[cite: 30, 33, 34]. | `Python` `Scikit-Learn` `Pandas` |
-| **Police Witness System** | [cite_start]Automated statement system using **LLM integration** (MCP) and **Text-to-Speech** API for accessibility[cite: 17, 26, 27]. | `Flutter` `Dart` `Node.js` |
+| **Brain EEG Classification** | Zero-shot EEG-to-semantic embedding classification using **multimodal fusion** on the THINGS-EEG dataset. | `Python` `Scikit-Learn` `Pandas` |
+| **Police Witness System** | Automated statement system using **LLM integration** (MCP) and **Text-to-Speech** API for accessibility. | `Flutter` `Dart` `Node.js` |
 | **Instant Messaging App** | Real-time messaging application utilizing socket programming for robust client-server communication. | `Python` `Sockets` |
 | **Dynamic Memory Allocator** | Custom implementation of `malloc`, `free`, and `realloc` with explicit heap memory management. | `C` `Make` |
-| **Sentiment Analyser** | [cite_start]Real-time **demographic & emotion recognition** from webcam streams (optimized to 30 FPS)[cite: 45, 50, 51]. | `OpenCV` `Deep Face` `Python` |
-| **Penetration Testing** | [cite_start]Security audits identifying **SQL injection** & **XSS**, plus cryptographic vulnerability assessments[cite: 39, 42]. | `Wireshark` `Python` `Kali` |
+| **Sentiment Analyser** | Real-time **demographic & emotion recognition** from webcam streams (optimized to 30 FPS). | `OpenCV` `Deep Face` `Python` |
+| **Penetration Testing** | Security audits identifying **SQL injection** & **XSS**, plus cryptographic vulnerability assessments. | `Wireshark` `Python` `Kali` |
